@@ -42,14 +42,14 @@
 
 <h3 align="center">Currently Learning and Working with:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/cigie/cigie/main/icons/html.svg"
       alt="html5"
       width="40"
       height="40"
     /> </a
-  ><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  ><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/cigie/cigie/main/icons/css3.svg"
       alt="css3"
