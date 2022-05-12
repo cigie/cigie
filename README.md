@@ -18,7 +18,7 @@
   ><a href="https://t.me/fattycigs" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/cigie/cigie/main/Telegram_logo.svg"
+      src="https://raw.githubusercontent.com/cigie/cigie/main/icons/Telegram_logo.svg"
       alt="fattycigs"
       height="30"
       width="40"
